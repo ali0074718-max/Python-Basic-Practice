@@ -5,7 +5,7 @@ print(n)
 n1 = random.randrange(2,8)
 print(n1)
 
-l = [1,2,3,4,5,6]
+l = [100,200,300,400,500,600]
 lc = random.choice(l)
 print(lc)
 # OR
